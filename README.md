@@ -16,5 +16,5 @@ Packages requrired to generate a random walk path
 
 Additional packages used in the notebook for analysis and plotting
 
--xarray
--matplotlib
+- xarray
+- matplotlib
