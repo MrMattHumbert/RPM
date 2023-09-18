@@ -13,8 +13,6 @@ Packages requrired to generate a random walk path
 - numpy
 - pandas
 - random
-
 Additional packages used in the notebook for analysis and plotting
-
 - xarray
 - matplotlib
